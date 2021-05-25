@@ -9,4 +9,4 @@ I'm Dirso and I'm 15 years old. I am passionate about **Offensive Security**. I 
 
 ### Favorite tools:
 - <img width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> <b>Python</b>
-- <img width="20px" src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png"> <b>Shell Script</b>
+- <img width="20px" src="https://user-images.githubusercontent.com/73609472/119502257-21f20d80-bd40-11eb-9222-cda0efa65adc.png"> <b>Shell Script</b>
