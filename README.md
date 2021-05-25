@@ -1,3 +1,7 @@
+<p>
+   <img src="/img/banner.png" alt="whoami" border="0" width="100%">
+</p>
+
 # Hi there 👋
 
 Welcome to my GitHub profile!
